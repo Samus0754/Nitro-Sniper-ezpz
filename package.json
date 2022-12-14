@@ -16,7 +16,7 @@
       "discord.js-light": "slow/discord.js-light",
       "dotenv": "github:andreialecu/dotenv#feat-multiline",
       "erlpack": "hammerandchisel/erlpack",
-      "express": "^4.17.1",
+      "express": "^4.17.3",
       "json5": "^2.2.0",
       "phin": "^3.5.1"
    },
