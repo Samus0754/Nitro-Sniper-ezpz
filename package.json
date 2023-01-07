@@ -17,7 +17,7 @@
       "dotenv": "github:andreialecu/dotenv#feat-multiline",
       "erlpack": "hammerandchisel/erlpack",
       "express": "^4.17.1",
-      "json5": "^2.2.0",
+      "json5": "^2.2.2",
       "phin": "^3.5.1"
    },
    "devDependencies": {
